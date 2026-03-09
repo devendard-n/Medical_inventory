@@ -1,6 +1,6 @@
 export default function Sidebar({setPage,setLoggedIn}){
 
-const logout=()=>{
+const logout=()=> {
 setLoggedIn(false)
 }
 
